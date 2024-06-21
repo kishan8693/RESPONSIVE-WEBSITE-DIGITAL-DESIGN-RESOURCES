@@ -1,0 +1,107 @@
+.clred:hover{
+    color: red;
+    cursor: pointer;
+}
+.fs64{
+    font-size: 80px;
+    font-family: sora, sans-serif;
+}
+.fs50{
+    font-size: 45px;
+    font-family: sora, sans-serif;
+}
+
+.h75{
+    height: 75px;
+}
+.ff-sora{
+    font-family: sora, sans-serif;
+}
+.pcolor{
+    color: #45505f;
+}
+.vmin3{
+    font-size: 3vmin;
+}
+.ff-work{
+    font-family: "work sans",sans-serif;
+    
+}
+.bgc{
+    background-color: #f5fdff;
+}
+.main-btn{
+    background-color: #241f33;
+    color: white;
+}
+.main-btn:hover{
+    background-color: rgb(231, 55, 84);
+    color: white;
+    cursor: pointer;
+    transition: all ease 0.5s;
+}
+.h30{
+    height: 30px;
+}
+.icon{
+          
+}
+.icon2{
+    border: 2px solid black;
+}
+.icon2:hover{
+    color: rgb(231, 55, 84);
+    cursor: pointer;
+    border: 1px solid red;
+}
+.icon:hover{
+    color: rgb(231, 55, 84);
+    cursor: pointer;
+    border: 1px solid red;
+}
+.a-tag{
+    color: black;
+    text-decoration: none;
+}
+
+.btnview:hover{
+    background-color: #241f33;
+    cursor: pointer;
+    color: white;
+}
+.bdhov:hover{
+    box-shadow: 5px 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.footerbg{
+    background-color: #241f33;
+}
+.fs18{
+    font-size: 18px;
+}
+.fs25{
+    font-size: 25px;
+}
+.btnsub{
+   
+    background-color: #241f33;
+}
+.btnsub:hover{
+    background-color: rgb(231, 55, 84);
+    transition: 0.1s;
+    cursor: pointer;
+}
+.h50{
+    height: 50px;
+}
+.res-nav-bg{
+    background-color: #ffffff;
+}
+.h1-tag{
+    color: #241f33;
+}
+.active{
+    color: red;
+}
